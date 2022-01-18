@@ -1,7 +1,4 @@
 # I have created this file  - Ashutosh
-from ast import Param
-import imp
-from itertools import count
 from string import punctuation
 from django.http import HttpResponse
 from django.shortcuts import render
